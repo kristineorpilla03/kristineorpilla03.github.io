@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/picsagoalHome.png
+image: img/picsagoalHome.jpg
 title: "Pics-a-Goal"
 date: 2019
 published: true
