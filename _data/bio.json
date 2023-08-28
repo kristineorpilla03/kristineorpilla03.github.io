@@ -16,6 +16,7 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Data Science" },
+    { "name": "Finance" },
     { "name": "Community Improvement" }
   ],
   "skills": [
@@ -25,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS"]
+      "keywords": [ "MacOS", "Google Workspace" ]
     }
   ],
   "education": [
@@ -35,76 +36,63 @@
       "studyType": "B.S.",
       "startDate": "2021-08-23",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "ICS 111", "ICS 211", "ICS 141", "ICS 212", "ICS 241", "ICS 311", "ICS 314 (Current)", "ICS 321 (Current)"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "AmeriCorps VISTA",
+      "position": "VISTA Summer Associate - Early College Tutor",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-05",
+      "endDate": "2022-07",
+      "summary": "Tutor for Early College Students",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Utilized Google Workspace (Gmail, Drive, Meet, Docs, Sheets, Slides, Forms) in order to assist students with their summer classes",
+        "Facilitated group sessions with the students to share reminders and announcements"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Mānoa Scholars Club",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Member",
+      "startDate": "2021-08",
+      "endDate": "Present",
+      "summary": "Participate in volunteer events planned by the organization",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "UH Mānoa Provost Achievement Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "Scholarships awarded to high-achieveing high-school graduates. Must maintain a cummulative GPA of 3.0."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Congressional App Challenge - Second Place",
+      "date": "2020",
+      "awarder": "",
+      "summary": "My team won second place in 2020 in the Congressioanl App Challenge in HI District 1."
+    },
+    {
+      "title": "Congressional App Challenge - Second Place",
+      "date": "2019",
+      "awarder": "",
+      "summary": "My team won second place in 2019 in the Congressioanl App Challenge in HI District 1."
+    },
+    {
+      "title": "Hawaii Annual Code Challenge - First Place in the HIgh School division.",
+      "date": "2019",
+      "awarder": "",
+      "summary": "My team won first place in 2019 in the Hawaii Annual Code Challenge in the High School division."
     }
+
   ],
   "references": [
     {
