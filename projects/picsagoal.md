@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Pics-a-Gpa;"
+title: "Pics-a-Goal"
 date: 2019
 published: true
 labels:
