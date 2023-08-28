@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/picsagoalHome.png
 title: "Pics-a-Goal"
 date: 2019
 published: true
