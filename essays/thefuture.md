@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Envisioing the Future in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-28
+date: 2023-08-29
 published: true
 labels:
   - Software Engineering
