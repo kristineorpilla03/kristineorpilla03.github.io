@@ -1,19 +1,17 @@
 ---
 layout: essay
 type: essay
-title: "Highs and Lows: Journey with JavaScript"
+title: "HIghs and Lows: Journey with JavaScript and Athletic Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-28
+date: 2023-08-30
 published: true
 labels:
-  - Software Engineering
+  - JavaScript
+  - Athletic Software Engineering
   - Learning
 ---
+So far, I am excited to be learning JavaScript again. In high school, I took a class that taught JavaScript. However, I did not touch JavaScript afterward. Doing the current lessons of JavaScript in ICS 314 were a great way for me to relearn the language and to learn more in depth information about it also. One of the things that I found interesting from the lessons is to avoid using var when initializing variables. Instead, using let or const is better to avoid overwriting variables in the code. An observation that I made while completing the lessons is that I noticed that the syntax between JavaScript and Java were very similar, so it made the transition of learning easier. Some new information that I learned.
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+ICS 314 utilities athletic software engineering. This is done by completing software engineering tasks while being timed. At first, I was very intimidated of being timed, but after much thought, it is great practice for technical interviews. From my knowledge, when applying to tech jobs, one of the steps of applying is going through a technical interview, where a person will be given a problem and they must create and code the solution in a certain amount of time to show the interviewers their skills. By going through the motions of athletic software engineering in class, I think it will be a great way for me to experience thinking and coding under pressure. It will also be great practice to see where I am struggling and to improve upon these shortcomings.
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
-
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+My experience with athletic software engineering has been alright so far. By completing the practice WODs that are available through the class website and teacher assistants, I was able to experience coding while being timed. It was a bit stressful at first; I felt the need to type faster, but that led to a lot of mistypes. I also had a few practice WODs where I needed more time to complete, going over the DNF time. However, after reviewing the solution and understanding how the code worked, I was able to get my attempt times to be in the Rx range. I found the practice WODs to be a great help in indicating what I should know to prepare for the in-class WODs. I really enjoyed the practices, and I will continue to complete them as preparation for the actual WODs in class. 
