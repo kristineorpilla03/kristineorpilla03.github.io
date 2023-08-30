@@ -17,6 +17,8 @@ summary: "My team developed a sustainability goals game that won first place in 
   <img width="200px" src="../img/picsagoalInfo.png" class="img-thumbnail" >
 </div>
 
-Pics-a-Goal is a game created to compete in the Open Challenge in the Hawaii Annual Code Challenge. The game was created to teach people, specifically the younger generation in Hawaii, about the state's sustainability goals. The game works by providing the user with an image that relates to one of the sustainability goals. There are four options of goals on the bottom of the image where the user will then have to choose which of the goals provided matches the image above. At the end of the game, a summary of each of the sustainability goals will appear, to inform and educate the user.
+Pics-a-Goal is a game created to compete in the Open Challenge in the Hawaii Annual Code Challenge. The main purpose of the game is to teach people about the state’s sustainability goals. Our target audience was towards the younger generation. So, we decided to create an educational game where the users can be engaged and learn at the same time. Although the game is centered towards children, everyone can benefit from Pics-a-Goal.
+
+Pics-a-Goal works by providing the user with an image that relates to one of Hawaii's sustainability goals. There are four options of goals on the bottom of the screen where the user will then have to choose which of the goals provided matches the image above. If the user chooses the incorrect goal, an “X” will be displayed next to the chosen option, and the user will have another chance to correctly match the image to the goal. The user must answer the level correctly to move on to the next level. At the end of the game, a summary of all of the sustainability goals that were in the levels will be displayed. This is our way to inform and educate the uses about each of the sustainability goals.
 
 You may view the app [here](https://kristineorpilla.github.io/netjxrk/).
