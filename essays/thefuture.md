@@ -9,7 +9,9 @@ labels:
   - Software Engineering
   - Experience
 ---
-<img height = "300px" class="rounded float-start pe-4" src="../img/future.jpeg">
+<div class="text-center p-4">
+  <img height = "300px" class="rounded float-start pe-4" src="../img/future.jpeg">
+</div>
 
 ## Interest in Software Engineering
 
