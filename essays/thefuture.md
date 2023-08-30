@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Preparingn for the Future"
+title: "Envisioing the Future in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-28
 published: true
@@ -12,8 +12,8 @@ labels:
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Computer science is the career field that I aspire to be in after college. I am interested in either pursuing software engineering or data science. My interest in software engineering was due to my CTE courses in high school. For three years, I took computer science classes where I was introduced to multiple coding languages. My coding teacher had my classmates and I develop our own projects, where we were able to enter different competitions. Being exposed to this process of building and designing projects peaked my interest in software engineering. I would love to continue taking software engineering courses at the college level and to work on personal projects to improve upon and to gain more experience with software development.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+To better prepare me for a future in software engineering, there are many skills that I would like to develop. I would like to be proficient in the languages that I have learned over the years. I want to do this by completing personal projects to enforce my knowledge in the languages and to showcase my abilities in that language. Another skill I would like to develop for the future is to explore different softwares to develop code. For example, I want to learn how to use Meteor and Bootstrap to produce projects.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+In the future, I would love to get more experience in the computer science field. This school year, I am focusing on finding internship opportunities that I can apply to. This would allow me to get experience in applying for jobs, preparing and participating in technical interviews, and learning about the expectations for a software engineer. Another experience I would love to have in the future is being a part of projects that are focused on community improvement. I want to be able to give back to the community in any form, so working on software that can positively impact the community would be an amazing experience for me.
