@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/picsagoalHome.jpg
+image: img/whsportsHome.jpg
 title: "WHSports"
-date: 2019 - 2021
+date: 2021, 2019
 published: true
 labels:
   - HTML
