@@ -1,15 +1,13 @@
 ---
 layout: project
 type: project
-image: img/picsagoalHome.jpg
+image: img/chordsearcherHome.jpg
 title: "Chord Searcher"
 date: 2020
 published: true
 labels:
-  - HTML
-  - CSS
   - JavaScript
-summary: "My team developed a sports workout aoo that won second place in the 2019 Congressional App Challenge District 1. This project was also improved upon for my team and I's STEM and CTE capstone project."
+summary: "This is a chord searcher app for ukulele and guitar for my AP Computer Science Principles class."
 ---
   <div class="text-center p-4">
   <video width="750" height="422" controls>
