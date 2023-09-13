@@ -23,3 +23,5 @@ The app works by showcasing different sports that are offered on the app. For ou
 
 As it is a sports app for Waipahu High School students, there is an information page for all of the sports offered at the high school and all the pertinent information about the sport, such as practice dates, times, and location.
 
+My contributions towards this project was data collection from students to create the warm-ups and workouts for the sports that are included in the app. I also worked on the HTML and CSS of this project, where both me and my team members all contributed towards. This project has allowed me to experience the engineering design process of identifying a client and creatine a product to help solve a problem they are currently facing. Coding this project has allowed me to expand on my HTNL and CSS skills outside of the classroom. 
+

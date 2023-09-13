@@ -21,4 +21,6 @@ Pics-a-Goal is a game created to compete in the Open Challenge in the Hawaii Ann
 
 Pics-a-Goal works by providing the user with an image that relates to one of Hawaii's sustainability goals. There are four options of goals on the bottom of the screen where the user will then have to choose which of the goals provided matches the image above. If the user chooses the incorrect goal, an “X” will be displayed next to the chosen option, and the user will have another chance to correctly match the image to the goal. The user must answer the level correctly to move on to the next level. At the end of the game, a summary of all of the sustainability goals that were in the levels will be displayed. This is our way to inform and educate the uses about each of the sustainability goals.
 
+My contribution towards this project was with the HTML and CSS portions of the project. I also contributed towards the content of the app. This project gave me an experience of one of my first hackathons. I was able to experience creating a coding product in a time-constraint of a month, abd also presenting the project to a panel of judges. 
+
 You may view the app [here](https://kristineorpilla.github.io/netjxrk/).
