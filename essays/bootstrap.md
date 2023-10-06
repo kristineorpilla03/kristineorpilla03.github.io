@@ -4,7 +4,7 @@ type: essay
 title: "Bootstrap 5: Difficult, but Necessary"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-05
-published: true
+published: false
 labels:
   - Software Engineering
   - UI Frameworks
