@@ -32,3 +32,6 @@ Some mockup pages include:
 ## Beyond the Basics
 * The user will receive a notification when logging in if they have matched with someone.
 * Notifying the user when they are matched with a person via email.
+
+## Authors
+Shedrick Klifford Ulibas, Harvey Dayne Lafradez, Kristine Orpilla, Destiny Shishido
