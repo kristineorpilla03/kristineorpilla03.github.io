@@ -17,6 +17,8 @@ Once a new user creates a profile, they are able to browse a page of other profi
 
 Users are able to “heart” a profile that interests them and those are collected in a separate page of matching profiles if those users also put a “heart” on their profile as well.
 
+Administrators can monitor profiles and take down inappropriate content when necessary.
+
 Some mockup pages include:
 * Landing Page
 * My Profile Page
