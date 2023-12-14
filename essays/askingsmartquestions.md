@@ -4,7 +4,7 @@ type: essay
 title: "Asking Questions Like a Pro"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-06
-published: true
+published: false
 labels:
   - Software Engineering
   - StackOverflow
