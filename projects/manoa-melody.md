@@ -12,9 +12,9 @@ labels:
 summary: "My group and I developed Mānoa Melody for our final project for ICS 314."
 ---
 <div class="text-center p-4">
-  <img width="400px" src="../img/user-home-page.png" class="img-thumbnail" >
-  <img width="400px" src="../img/events-page.png" class="img-thumbnail" >
-  <img width="400px" src="../img/profiles-page.png" class="img-thumbnail" >
+  <img width="600px" src="../img/user-home-page.png" class="img-thumbnail" >
+  <img width="600px" src="../img/events-page.png" class="img-thumbnail" >
+  <img width="600px" src="../img/profiles-page.png" class="img-thumbnail" >
 </div>
 
 Mānoa Melody is a website catered for UH Mānoa students. It allows student musicians to connect with other musicians, provides a platform for musicians to advertise their events, and allows students to connect with others who share the same musicals interests as them.
