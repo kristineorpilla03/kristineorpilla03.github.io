@@ -26,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS" ]
+      "keywords": [ "MacOS", "GitHub" ]
     }
   ],
   "education": [
@@ -36,7 +36,7 @@
       "studyType": "B.S.",
       "startDate": "2021-08-23",
       "endDate": "Present",
-      "courses": [ "ICS 111","ICS 211", "ICS 141", "ICS 212", "ICS 241", "ICS 311", "ICS 314 (Current)", "ICS 321 (Current)"
+      "courses": [ "ICS 111/211","ICS 141/241", "ICS 212", "ICS 311", "ICS 314", "ICS 321"
       ]
     }
   ],
