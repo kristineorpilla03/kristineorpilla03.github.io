@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mm.jpeg
+image: img/mm.jpg
 title: "Mānoa Melody"
 date: 2022
 published: true
