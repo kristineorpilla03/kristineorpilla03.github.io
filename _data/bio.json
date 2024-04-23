@@ -16,13 +16,14 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Data Science" },
+    { "name": "Cybersecurity" },
     { "name": "Finance" },
     { "name": "Community Improvement" }
   ],
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "HTML", "CSS", "JavaScript", "Java", "C", "C++", "Python" ]
+      "keywords": [ "HTML", "CSS", "JavaScript", "Java", "SQL", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -36,11 +37,23 @@
       "studyType": "B.S.",
       "startDate": "2021-08-23",
       "endDate": "Present",
-      "courses": [ "ICS 111/211","ICS 141/241", "ICS 212", "ICS 311", "ICS 314", "ICS 321"
+      "courses": [ "ICS 111/211","ICS 141/241", "ICS 212", "ICS 311", "ICS 314/414", "ICS 321", "ICS 313"
       ]
     }
   ],
   "work": [
+    {
+      "company": "Po'okela Fellows Internship Program: Board of Water Supply ",
+      "position": "Po'okela Fellows Intern",
+      "website": "",
+      "startDate": "2024-01",
+      "endDate": "Present",
+      "summary": "Intern in the Applications Department",
+      "highlights": [
+        "Utilizing SQL Server (using the language SQL) and OutSystems to create an application",
+        "Constant communication with a department to create an application that meets their needs"
+      ]
+    },
     {
       "company": "AmeriCorps VISTA",
       "position": "VISTA Summer Associate - Early College Tutor",
@@ -67,28 +80,24 @@
       ]
     }
   ],
+  "extra-curricular activities": [
+    {
+      "organization": "ICSpark",
+      "website": "",
+      "position": "Mentor",
+      "startDate": "2023-08",
+      "endDate": "Present",
+      "summary": "Mentoring students to learn HTML/CSS/Javascript for web development.",
+      "highlights": [
+      "Working alongside my fellow mentor to help our students with learning web development concepts through their weekly projects",
+        "Using my knowledge of HTML, CSS, and JavaScript and web development to explain complex ideas to my students"
+      ]
+    }
+  ],
   "awards": [
     {
-      "title": "UH Mānoa Dean's List - Spring 2023",
-      "date": "2023",
-      "awarder": "University of Hawaii at Mānoa",
-      "summary": "Awarded to full-time students who have a GPA of 3.5+."
-    },
-    {
-      "title": "UH Mānoa Dean's List - Fall 2022",
-      "date": "2022",
-      "awarder": "University of Hawaii at Mānoa",
-      "summary": "Awarded to full-time students who have a GPA of 3.5+."
-    },
-    {
-      "title": "UH Mānoa Dean's List - Spring 2022",
-      "date": "2022",
-      "awarder": "University of Hawaii at Mānoa",
-      "summary": "Awarded to full-time students who have a GPA of 3.5+."
-    },
-    {
-      "title": "UH Mānoa Dean's List - Fall 2021",
-      "date": "2021",
+      "title": "UH Mānoa Dean's List",
+      "date": "Fall 2021 - Fall 2023",
       "awarder": "University of Hawaii at Mānoa",
       "summary": "Awarded to full-time students who have a GPA of 3.5+."
     },
