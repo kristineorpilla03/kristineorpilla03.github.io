@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "Kristine Orpilla",
+    "label": "Student",
+    "picture": "https://github.com/kristineorpilla03.png",
+    "email": "korpilla@hawaii.edu",
+    "phone": "808-206-3645",
+    "website": "https://kristineorpilla03.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "kristineorpilla03", "url": "http://github.com/kristineorpilla03" },
+      { "network": "linkedin", "username": "kristineorpilla", "url": "http://linkedin.com/in/kristineorpilla" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Data Science" },
+    { "name": "Cybersecurity" },
+    { "name": "Finance" },
+    { "name": "Community Improvement" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "HTML", "CSS", "JavaScript", "Java", "SQL", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": [ "ICS 111/211","ICS 141/241", "ICS 212", "ICS 311", "ICS 314/414", "ICS 321", "ICS 313"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Po'okela Fellows Internship Program: Board of Water Supply ",
+      "position": "Po'okela Fellows Intern",
+      "website": "",
+      "startDate": "2024-01",
+      "endDate": "Present",
+      "summary": "Intern in the Applications Department",
+      "highlights": [
+        "Utilizing SQL Server (using the language SQL) and OutSystems to create an application",
+        "Constant communication with a department to create an application that meets their needs"
+      ]
+    },
+    {
+      "company": "AmeriCorps VISTA",
+      "position": "VISTA Summer Associate - Early College Tutor",
+      "website": "",
+      "startDate": "2022-05",
+      "endDate": "2022-07",
+      "summary": "Tutor for Early College Students",
+      "highlights": [
+        "Utilized Google Workspace (Gmail, Drive, Meet, Docs, Sheets, Slides, Forms) in order to assist students with their summer classes",
+        "Facilitated group sessions with the students to share reminders and announcements"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Mānoa Scholars Club",
+      "website": "",
+      "position": "Member",
+      "startDate": "2021-08",
+      "endDate": "Present",
+      "summary": "Participate in volunteer events planned by the organization",
+      "highlights": [
+
+      ]
+    },
+    {
+      "organization": "ICSpark",
+      "website": "",
+      "position": "Mentor",
+      "startDate": "2023-08",
+      "endDate": "Present",
+      "summary": "Mentoring students to learn HTML/CSS/Javascript for web development.",
+      "highlights": [
+      "Working alongside my fellow mentor to help our students with learning web development concepts through their weekly projects",
+        "Using my knowledge of HTML, CSS, and JavaScript and web development to explain complex ideas to my students"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "UH Mānoa Dean's List",
+      "date": "Fall 2021 - Fall 2023",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "Awarded to full-time students who have a GPA of 3.5+."
+    },
+    {
+      "title": "UH Mānoa Provost Achievement Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "Scholarships awarded to high-achieveing high-school graduates. Must maintain a cummulative GPA of 3.0."
+    },
+    {
+      "title": "Congressional App Challenge - Second Place",
+      "date": "2020",
+      "awarder": "Congressman Ed Case",
+      "summary": "My team won second place in 2020 in the Congressioanl App Challenge in HI District 1."
+    },
+    {
+      "title": "Congressional App Challenge - Second Place",
+      "date": "2019",
+      "awarder": "Congressman Ed Case",
+      "summary": "My team won second place in 2019 in the Congressioanl App Challenge in HI District 1."
+    },
+    {
+      "title": "Hawaii Annual Code Challenge - First Place in the High School Division",
+      "date": "2019",
+      "awarder": "Hawaii Annual Code Challenge",
+      "summary": "My team won first place in 2019 in the Hawaii Annual Code Challenge in the High School division."
+    }
+
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
